@@ -47,10 +47,8 @@ For the complete code, please refer to the `maze_solver_code.ino` file.
 
 This project was developed by the following collaborators:
 
-- **Mohamed** - [GitHub](https://github.com/mohamed20o03)
-- **Collaborator Name 1** - [GitHub](https://github.com/collaborator1)
-- **Collaborator Name 2** - [GitHub](https://github.com/collaborator2)
-- **Collaborator Name 3** - [GitHub](https://github.com/collaborator3)
+- **Mohamed Ahmed** - [GitHub](https://github.com/mohamed20o03)
+- **Karim Ali** - [GitHub](https://github.com/karimali03)
 
 ## Achievements
 
